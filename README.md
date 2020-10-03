@@ -1,4 +1,4 @@
-# Desafio_Publica. Recursos
+# Desafio_Publica
 
 Este repositorio e para o desafio do Programa de Talentos Pública.
 
